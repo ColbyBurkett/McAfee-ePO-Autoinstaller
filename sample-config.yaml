@@ -1,0 +1,30 @@
+Solidcore:
+  Files:
+    - Filename: "files\\SOLIDCOR821-435_WIN.zip"
+      Type: Package
+    
+    - Filename: "files\\Solidcore_epo_extn_8.2.1.229.zip"
+      Type: Extension
+      Order: 1
+
+    - Filename: "files\\Colby.xml"
+      Type: Policy
+
+    - Filename: "files\\Tasks_for_Solidcore.xml"
+      Type: Task
+VSE:
+  Files:
+    - Filename: "files\\VSE880LMLRP14.zip"
+      Type: Package
+    
+    - Filename: "files\\VIRUSCAN8800(732).zip"
+      Type: Extension
+      Order: 2
+
+    - Filename: "files\\VIRUSCANREPORTS120(452).zip"
+      Type: Extension
+      Order: 3
+
+    - Filename: "files\\epo45_help_vse_880.zip"
+      Type: Extension
+      Order: 4
